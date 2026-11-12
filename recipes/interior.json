@@ -1,0 +1,11 @@
+{
+  "name": "interior-wide",
+  "template": "{subject}, wide establishing shot, symmetrical composition, late afternoon",
+  "styles": {
+    "editorial": "warm timber tones, long shadows, 24mm",
+    "cold": "overcast daylight, blue-grey palette, crisp edges",
+    "lived-in": "clutter kept, soft lamp light, slightly warm white balance"
+  },
+  "negative": "fisheye distortion, tilted horizon, people, text, watermark",
+  "notes": "Mention the room's function in the subject so the model picks the right furniture."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "food-closeup",
+  "template": "{subject}, steam rising, shot in a home kitchen, shallow depth of field, 50mm",
+  "styles": {
+    "editorial": "soft window light from the left, muted colour palette, film grain",
+    "menu": "bright even light, white plate on dark slate, top-down",
+    "documentary": "handheld, available light, slight motion blur"
+  },
+  "negative": "plastic texture, oversaturated, text, watermark, extra utensils",
+  "notes": "Works best with 2-4 word subjects; keep a single hero object in frame."
+}
